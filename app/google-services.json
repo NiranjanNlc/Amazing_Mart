@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579130542260",
+    "project_id": "amazing-mart-52235",
+    "storage_bucket": "amazing-mart-52235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579130542260:android:11855ecfcc35d1993fefe1",
+        "android_client_info": {
+          "package_name": "com.devabhijeet.amazingmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579130542260-k89nbjrm77aahe9t4j9l8ma4b32n7fp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devabhijeet.amazingmart",
+            "certificate_hash": "52ef53aa30245b773a41b70f89527b46dcc2e7a5"
+          }
+        },
+        {
+          "client_id": "579130542260-g0d2nef5ud3rf549f8ml999jl63a0iri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozrkGigLJGyTTMlOlBc9PphWJSRHWLXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579130542260-g0d2nef5ud3rf549f8ml999jl63a0iri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
